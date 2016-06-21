@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jennifer Willis]]></title>
-        <description><![CDATA[Jennifer Willis]]></description>
+        <title><![CDATA[a place to try things out]]></title>
+        <description><![CDATA[a place to try things out]]></description>
         <link>https://thegrid.ai/jennifer-willis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 21:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 21:55:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jennifer-willis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 100 best sci-fi movies]]></title>
+            <description><![CDATA[<article><h1>The 100 best sci-fi movies</h1><p>This is a golden age of science fiction cinema. Wander into your local multiplex and you're faced with limitless sci-fi movies featuring aliens and superheroes, giant robots and dystopian futures, all presented in shimmering 3D with top-of-the-line special effects.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b9fbb220f1a4616c10f39ab981359bc/noop.jpg?input=https%3A%2F%2Fmedia.timeout.com%2Fimages%2F101906909%2Fimage.jpg"></article>]]></description>
+            <link>http://www.timeout.com/london/film/the-100-best-sci-fi-movies</link>
+            <guid isPermaLink="false">141c5d6f-d1bf-4394-b64c-083b5a1bacdd</guid>
+            <pubDate>Tue, 21 Jun 2016 21:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stephen Hawking Issues a Challenge to Science Fiction Writers - SciFi Ideas]]></title>
+            <description><![CDATA[<article><h1>Stephen Hawking Issues a Challenge to Science Fiction Writers - SciFi Ideas</h1><p>In an interview with John Oliver (broadcast on Last Week Tonight in June 2014), Professor Stephen Hawking set a challenge for science fiction writers everywhere. Here's the interview, and it's both hilarious and heart-warming. As the severely disabled celebrity genius approaches his 73 year on planet Earth, I can't help thinking that watching him enjoy himself publicly is becoming an increasingly precious sight.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/efd03da3d7310f2c131a460e6ebe37ac/noop.jpg?input=http%3A%2F%2Fwww.scifiideas.com%2Fwp-content%2Fuploads%2F2014%2F11%2FJohn_Oliver_Stephen_Hawking-642x362.jpg"></article>]]></description>
+            <link>http://www.scifiideas.com/science-2/stephen-hawking-issues-challenge-science-fiction-writers/</link>
+            <guid isPermaLink="false">22caf98e-efb0-4518-9035-19cbb985c48c</guid>
+            <pubDate>Tue, 21 Jun 2016 21:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Today's Inventors Need to Read More Science Fiction]]></title>
+            <description><![CDATA[<article><h1>Why Today's Inventors Need to Read More Science Fiction</h1><p>MIT researchers Dan Novy and Sophia Brueckner argue that the mind-bending worlds of authors such as Philip K. Dick and Arthur C. Clarke can help us not just come up with ideas for new gadgets, but anticipate their consequences.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/54fdbafe5b473a2c115966045302960a/noop.jpg?input=https%3A%2F%2Fcdn.theatlantic.com%2Fassets%2Fmedia%2Fimg%2Fmt%2F2013%2F09%2F04-2%2Flead_large.jpg"></article>]]></description>
+            <link>http://www.theatlantic.com/technology/archive/2013/09/why-todays-inventors-need-to-read-more-science-fiction/279793/</link>
+            <guid isPermaLink="false">f25705ba-2da5-4e35-8e80-d9bbad7b6d05</guid>
+            <pubDate>Tue, 21 Jun 2016 21:55:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We Just Solved One of the Biggest Mysteries About How Water Flows on Mars]]></title>
             <description><![CDATA[<article><h1>We Just Solved One of the Biggest Mysteries About How Water Flows on Mars</h1><p>Researchers just uncovered an incredible fact about liquid water on Mars. It's not just flowing; it's also boiling. And that discovery also solves one of the major mysteries about the surface of the red planet. The results of a new experiment published today in Nature Geoscience detail how scientists made the finding and what it means.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04ff1af0e37ebad7044a5c1c39a079e1/noop.jpg?input=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--mHDoeoy6--%2Fwltsaymihndxlwjufq8w.jpg"></article>]]></description>
@@ -54,27 +75,6 @@
             <link>http://www.space.com/24701-how-long-does-it-take-to-get-to-mars.html</link>
             <guid isPermaLink="false">30b88fb0-8773-4664-9414-699352e89201</guid>
             <pubDate>Tue, 21 Jun 2016 21:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How A Man's Fitbit Got Him The Medical Care He Needed]]></title>
-            <description><![CDATA[<article><h1>How A Man's Fitbit Got Him The Medical Care He Needed</h1><p>On Jan. 5, a man checked into a hospital's emergency room in Camden, New Jersey. Because his heart was beating irregularly, doctors suspected he had atrial fibrillation, the most common type of arrhythmia, which can increase the risk of stroke. But to decide how to treat him, they needed to know exactly how long his heart had been acting up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e7c2137ca15977fb188a032265cc6aa5dfc153d.jpg"></article>]]></description>
-            <link>http://www.buzzfeed.com/stephaniemlee/fitbit-in-the-hospital#.hpzkQq9bY</link>
-            <guid isPermaLink="false">9d6b8593-2087-4fd6-94de-2b518ceb0edb</guid>
-            <pubDate>Tue, 21 Jun 2016 21:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Behind The Waldorf Astoria Bar Book's Brand New Update]]></title>
-            <description><![CDATA[<article><h1>Behind The Waldorf Astoria Bar Book's Brand New Update</h1><p>There are few cocktail guides with as much history as "The Old-Waldorf Astoria Bar Book" by Albert Stevens Crockett. The original source material, "Old Waldorf Bar Days" (1931), also by Crockett, was penned during Prohibition but the author rewrote it as we know it in 1933 when Prohibition ended.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1d32105a54d9d89e483ba0384354f52d2dcf9ef.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/food-drink/waldorf-astoria-bar-book-update</link>
-            <guid isPermaLink="false">a4b76c96-aad6-4ebe-acaa-2914ec3a183b</guid>
-            <pubDate>Tue, 21 Jun 2016 21:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rising dawn: Rolls-Royce debut handsome new soft-top.]]></title>
-            <description><![CDATA[<article><h1>Rising dawn: Rolls-Royce debut handsome new soft-top.</h1><p>The Rolls-Royce Dawn made its debut in an underground car park, just a stone's throw from Wallpaper's HQ. Granted, it was the car park beneath Rogers Stirk Harbour + Partners' award-winning Neo Bankside development, and the other bays were full of Ferraris, Maseratis and other exotic metal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e9722ec934a561a202db1ac3eff4119777420ed.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/lifestyle/rolls-royce-debut-their-handsome-new-soft-top</link>
-            <guid isPermaLink="false">a04a9723-da1e-4c96-aaf8-4992e5aeb21b</guid>
-            <pubDate>Tue, 21 Jun 2016 21:14:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
