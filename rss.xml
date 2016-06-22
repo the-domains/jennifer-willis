@@ -4,8 +4,15 @@
         <description><![CDATA[a place to try things out]]></description>
         <link>https://thegrid.ai/jennifer-willis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 16:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 20:45:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jennifer-willis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Neil deGrasse Tyson reveals his favorite science fiction movies]]></title>
+            <description><![CDATA[<article><h1>Neil deGrasse Tyson reveals his favorite science fiction movies</h1><p>Can you guess?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/69494d84fa590585b930835b9f4b9707/noop.jpg?input=http%3A%2F%2Fstatic5.techinsider.io%2Fimage%2F565f7804e009cd707b187d94-1190-625%2Fneil-degrasse-tyson-reveals-his-favorite-science-fiction-movies.jpg"></article>]]></description>
+            <link>http://www.techinsider.io/neil-degrasse-tyson-sci-fi-movies-matrix-contact-2015-12</link>
+            <guid isPermaLink="false">dac64706-ac1c-41d0-a8d8-ac2c6fbea51b</guid>
+            <pubDate>Wed, 22 Jun 2016 20:45:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Martian: It's Not About the Science. But It's ALL About the Science.]]></title>
             <description><![CDATA[<article><h1>The Martian: It's Not About the Science. But It's ALL About the Science.</h1><p>What would it be like to walk across the surface of Mars? Go watch The Martian , and find out. During a lot of the movie, it really felt like I was watching events unfold on the Red Planet. The scenery and photography were just that real.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/73eb7e72041b6d3637d5d700148c6156/noop.jpg?input=http%3A%2F%2Fwww.slate.com%2Fcontent%2Fdam%2Fslate%2Fblogs%2Fbad_astronomy%2F2015%2F10%2F09%2Fthemartian1.jpg.CROP.original-original.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.space.com/33228-newborn-exoplanet-youngest-ever-detected.html</link>
             <guid isPermaLink="false">1bca84b3-a716-4832-9602-042df3112c06</guid>
             <pubDate>Tue, 21 Jun 2016 21:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Delicious 'Strawberry Moon' Photos: Rare Solstice Lunar Show Wows Stargazers]]></title>
-            <description><![CDATA[<article><h1>Delicious 'Strawberry Moon' Photos: Rare Solstice Lunar Show Wows Stargazers</h1><p>June's full moon - known in some cultures as a " Strawberry Moon" - greeted night sky watchers yesterday (June 20), and coincidentally fell on the summer solstice, the longest day of the year. Space.com received a flood of gorgeous photographs of this celestial sight from readers all over the world.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/40188ffb088cef2bac1313bd01180737/noop.jpg?input=http%3A%2F%2Fwww.space.com%2Fimages%2Fi%2F000%2F056%2F377%2Foriginal%2Ffullmoonmultiple.JPG%3Finterpolation%3Dlanczos-none%26downsize%3D*%3A1000"></article>]]></description>
-            <link>http://www.space.com/33240-delicious-strawberry-full-moon-wows-stargazers.html</link>
-            <guid isPermaLink="false">08f457f0-ff65-41f9-b2e4-506b0fd8654b</guid>
-            <pubDate>Tue, 21 Jun 2016 21:55:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
