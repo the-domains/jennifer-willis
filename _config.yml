@@ -1,15 +1,15 @@
-layout_spectrum: 0.16740808635950089
-typography_spectrum: 0.5679946942254901
+layout_spectrum: 0.08827301487326622
+typography_spectrum: 0.7861918045673519
 color:
-  brandStrength: 0.9628055433277041
-  lightness: 0.42352521140128374
-  saturation: 0.38365258695557714
-  rhythmicContrast: 0.35727054136805236
+  brandStrength: 0.6139742273371667
+  lightness: 0.8654448334127665
+  saturation: 0.9212029622867703
+  rhythmicContrast: 0.2641176974866539
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: Jen's test page
 title: a place to try things out
