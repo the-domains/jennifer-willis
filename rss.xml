@@ -4,8 +4,15 @@
         <description><![CDATA[a place to try things out]]></description>
         <link>https://thegrid.ai/jennifer-willis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 20:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 20:45:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jennifer-willis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Neil deGrasse Tyson made 2 brilliant observations about 'The Martian']]></title>
+            <description><![CDATA[<article><h1>Neil deGrasse Tyson made 2 brilliant observations about 'The Martian'</h1><p>Famous astrophysicist and host of StarTalk Radio Neil deGrasse Tyson was surprisingly sassy in his review of the sci-fi epic "The Martian." "The Martian" follows the story of astronaut Mark Watney who must rely on science to survive after he gets stranded on Mars.</p><img src="http://static5.techinsider.io/image/5613f3b09dd7cc19008bfa33-1190-625/neil-degrasse-tyson-made-2-brilliant-observations-about-the-martian.jpg"></article>]]></description>
+            <link>http://www.techinsider.io/neil-degrasse-tyson-the-martian-reaction-2015-10</link>
+            <guid isPermaLink="false">a69f8fa4-0fd1-469d-a5c1-6da2e003b946</guid>
+            <pubDate>Wed, 22 Jun 2016 20:45:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neil deGrasse Tyson reveals his favorite science fiction movies]]></title>
             <description><![CDATA[<article><h1>Neil deGrasse Tyson reveals his favorite science fiction movies</h1><p>Can you guess?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/69494d84fa590585b930835b9f4b9707/noop.jpg?input=http%3A%2F%2Fstatic5.techinsider.io%2Fimage%2F565f7804e009cd707b187d94-1190-625%2Fneil-degrasse-tyson-reveals-his-favorite-science-fiction-movies.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.extremetech.com/extreme/187364-nasas-mars-2020-rover-will-hunt-for-signs-of-life-produce-oxygen-from-mars-atmosphere</link>
             <guid isPermaLink="false">977d53e7-7458-48e7-b939-07a406dac5ec</guid>
             <pubDate>Tue, 21 Jun 2016 21:55:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rare Newborn Planet May Be the Youngest Ever Detected]]></title>
-            <description><![CDATA[<article><h1>Rare Newborn Planet May Be the Youngest Ever Detected</h1><p>A distant, Neptune-size planet 500 light-years from Earth appears to be the youngest fully formed exoplanet ever found crossing its star, raising questions about how it formed so close, so quickly. Researchers first found the planet, which whisks around its star every five days, using the Kepler space telescope currently orbiting Earth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4edac8fdeadb4030c39379bb65eabec6/croprotate.jpg?cropheight=999&cropwidth=1777&degrees=0&input=http%3A%2F%2Fwww.space.com%2Fimages%2Fi%2F000%2F056%2F354%2Foriginal%2FPIA20690_hires.jpg%3Finterpolation%3Dlanczos-none%26downsize%3D*%3A1000&x=0&y=0"></article>]]></description>
-            <link>http://www.space.com/33228-newborn-exoplanet-youngest-ever-detected.html</link>
-            <guid isPermaLink="false">1bca84b3-a716-4832-9602-042df3112c06</guid>
-            <pubDate>Tue, 21 Jun 2016 21:55:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
