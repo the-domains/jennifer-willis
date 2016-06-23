@@ -4,11 +4,18 @@
         <description><![CDATA[a place to try things out]]></description>
         <link>https://thegrid.ai/jennifer-willis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 16:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 16:52:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jennifer-willis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Atmosphere of Venus Is More Terrifying Than We Imagined]]></title>
+            <description><![CDATA[<article><h1>The Atmosphere of Venus Is More Terrifying Than We Imagined</h1><p>Add this to the list of reasons Venus is a blistering hellscape: not only is the surface hot enough to melt lead, not only will the sulfuric acid rainstorms burn gaping holes in your partially-melted spaceship, it's got a monstrous electric wind that appears to have helped strip all the water out of the atmosphere.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--vNhF5JIc--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/w49ivzf7vezdubzy0ayw.png"></article>]]></description>
+            <link>http://gizmodo.com/the-atmosphere-of-venus-is-more-terrifying-than-we-imag-1782173357</link>
+            <guid isPermaLink="false">3cea1704-488a-4f9d-8bda-2d23659f44fd</guid>
+            <pubDate>Thu, 23 Jun 2016 16:51:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[It Looks Like Pluto Has a Liquid Water Ocean]]></title>
-            <description><![CDATA[<article><h1>It Looks Like Pluto Has a Liquid Water Ocean</h1><p>For a frigid little space rock at the ass-end of the solar system, Pluto is full surprises. Ice volcanoes, hazy skies, vast plains of churning nitrogen, what's next? Just maybe, a subsurface ocean. Perhaps the most incredible discovery of the New Horizons Pluto encounter last summer was that the former ninth planet is geologically active, with widespread evidence of tectonic activity across its icy surface.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--oquY4QP5--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/jsnr1wspnkxiyfphectp.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>It Looks Like Pluto Has a Liquid Water Ocean</h1><p>For a frigid little space rock at the ass-end of the solar system, Pluto is full surprises. Ice volcanoes, hazy skies, vast plains of churning nitrogen, what's next? Just maybe, a subsurface ocean. Perhaps the most incredible discovery of the New Horizons Pluto encounter last summer was that the former ninth planet is geologically active, with widespread evidence of tectonic activity across its icy surface.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0da385c1de5e14d470d86d1cfec74c87/noop.jpg?input=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--oquY4QP5--%2Fc_fill%2Cfl_progressive%2Cg_center%2Ch_450%2Cq_80%2Cw_800%2Fjsnr1wspnkxiyfphectp.jpg"></article>]]></description>
             <link>http://gizmodo.com/it-looks-like-pluto-has-a-liquid-water-ocean-1782418191</link>
             <guid isPermaLink="false">052d8436-72b2-4cf9-bf93-185ac15df51e</guid>
             <pubDate>Thu, 23 Jun 2016 16:51:29 GMT</pubDate>
@@ -67,13 +74,6 @@
             <link>http://www.themarysue.com/nasa-fact-checks-the-martian/</link>
             <guid isPermaLink="false">7c394a0e-11ed-42f9-8228-6746d1ea6851</guid>
             <pubDate>Wed, 22 Jun 2016 20:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A brief history of life on Mars]]></title>
-            <description><![CDATA[<article><h1>A brief history of life on Mars</h1><p>Last week was a big one for Mars fans. First we discovered water, and then we rescued The Martian . NASA is already on a mission to reach the planet in our lifetime, and would-be space travelers are already planning ways to warm it up once we get there.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f84146e4ff3b5c92b39b6cb08395a27/croprotate.jpg?cropheight=2850&cropwidth=1839&degrees=0&input=http%3A%2F%2Fcdn0.dailydot.com%2Fuploaded%2Fimages%2Foriginal%2F2015%2F10%2F5%2FMoodyFourFingersofDeath.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.dailydot.com/geek/mars-in-science-fiction-history-lisa-yaszek/</link>
-            <guid isPermaLink="false">ab72ba3b-a456-4253-8ebf-9dee7735ebbd</guid>
-            <pubDate>Wed, 22 Jun 2016 20:52:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
