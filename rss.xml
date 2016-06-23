@@ -4,8 +4,15 @@
         <description><![CDATA[a place to try things out]]></description>
         <link>https://thegrid.ai/jennifer-willis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 20:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 15:55:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jennifer-willis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blue Origin successfully crash tests space-tourism capsule]]></title>
+            <description><![CDATA[<article><h1>Blue Origin successfully crash tests space-tourism capsule</h1><p>The private space company headed by Amazon CEO Jeff Bezos successfully landed the same Blue Shepherd rocket again Sunday after an unmanned test flight from its launch site in West Texas. Blue Origin wants to pioneer space tourism by offering paying customers a ride to what's known as suborbital space, reaching about 62 miles above Earth's surface.</p><img src="http://i2.cdn.turner.com/money/dam/assets/160620154757-blue-origin-crash-test-00010904-1024x576.jpg"></article>]]></description>
+            <link>http://money.cnn.com/2016/06/19/news/companies/blue-origin-rocket-landing-fourth-mission/index.html</link>
+            <guid isPermaLink="false">25b07c4e-e767-46c0-8283-a3b37239d7d9</guid>
+            <pubDate>Thu, 23 Jun 2016 15:55:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How A Former Android Developer Created "The Martian," A New Sci-Fi Masterpiece]]></title>
             <description><![CDATA[<article><h1>How A Former Android Developer Created "The Martian," A New Sci-Fi Masterpiece</h1><p>Not long ago Andy Weir, the author of The Martian , watched Ridley Scott's adaptation of his book for the first time. "For the first five minutes it was playing, I was just choked up," says Weir. "I was like 'Okay, just don't start start hysterically crying in this theater while you are surrounded by Fox executives.'</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/444f610231a68cd9eee5bd143d58c3e0/noop.jpg?input=http%3A%2F%2Fc.fastcompany.net%2Fmultisite_files%2Ffastcompany%2Fimagecache%2F620x350%2Fposter%2F2015%2F10%2F3051841-poster-p-1-meet-the-man-behind-the-martian.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.techinsider.io/the-martian-best-space-sci-fi-movie-2015-8</link>
             <guid isPermaLink="false">27a439ac-ef4b-4efa-922c-8631b888d9a9</guid>
             <pubDate>Wed, 22 Jun 2016 20:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Realism Makes 'The Martian' One Of The Greatest Sci-Fi Films Of All Time]]></title>
-            <description><![CDATA[<article><h1>Realism Makes 'The Martian' One Of The Greatest Sci-Fi Films Of All Time</h1><p>It almost feels wrong to label The Martian as science fiction. Based on the book that computer programmer Andy Weir researched for three years, the movie feels like it could happen in real life any day now. You'll find no suspended animation, jump drives, or wormholes in this flick-just technologies that NASA is already using or could develop in the near future.</p></article>]]></description>
-            <link>http://www.popsci.com/realism-makes-martian-one-greatest-sci-fi-films-all-time</link>
-            <guid isPermaLink="false">5e625053-6929-4b71-8672-834dec71a5d7</guid>
-            <pubDate>Wed, 22 Jun 2016 20:47:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
