@@ -4,8 +4,15 @@
         <description><![CDATA[a place to try things out]]></description>
         <link>https://thegrid.ai/jennifer-willis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 16:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 16:32:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jennifer-willis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scientists Confirm: Comets Smell Like Cat Piss]]></title>
+            <description><![CDATA[<article><h1>Scientists Confirm: Comets Smell Like Cat Piss</h1><p>Rotten eggs, cat urine, bitter almonds-that's the delightful elixir of aromas comprising the BO of one comet 67P, also known as Rosetta's comet. In a heartwarmingly nerdy yet mildly alarming development, members of the Rosetta mission team have commissioned scent firm The Aroma Company to turn it into a perfume.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--z9_U8wNu--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/z5lrzusdjcbn5wag7dcr.jpg"></article>]]></description>
+            <link>http://gizmodo.com/scientists-confirm-comets-smell-like-cat-piss-1782484882</link>
+            <guid isPermaLink="false">49d207a4-4022-4b84-85cc-41bc632c46ce</guid>
+            <pubDate>Thu, 23 Jun 2016 16:31:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Artificial intelligence is all around us and it's here to stay]]></title>
             <link>https://www.washingtonpost.com/video/business/technology/artificial-intelligence-is-all-around-us-and-its-here-to-stay/2016/06/22/ca8d32b0-37eb-11e6-af02-1df55f0c77ff_video.html</link>
@@ -67,13 +74,6 @@
             <link>https://www.sciencenews.org/article/martian-entertaining-science-fiction-rooted-fact</link>
             <guid isPermaLink="false">ebce7339-71cf-49de-ab32-187757619a27</guid>
             <pubDate>Wed, 22 Jun 2016 20:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[15 Famous Mars Movies | The House Next Door | Slant Magazine]]></title>
-            <description><![CDATA[<article><h1>15 Famous Mars Movies | The House Next Door | Slant Magazine</h1><p>In one of two blockbuster adaptations to showcase his shining star this year (the other being the inexplicable feature-length translation of a little game called Battleship), Taylor Kitsch leads the weekend as the title character in John Carter , leaping miles in a single bound and surely climbing the box-office charts too.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33cec28bd65f5d1a37fa2ce502ccd80c/noop.jpg?input=http%3A%2F%2Fwww.slantmagazine.com%2Fassets%2Fhouse%2F5288%2Flists_15famousmarsmovies.jpg"></article>]]></description>
-            <link>http://www.slantmagazine.com/house/article/15-famous-mars-movies</link>
-            <guid isPermaLink="false">518dbf1c-7ccd-4a62-9796-9e240e700b74</guid>
-            <pubDate>Wed, 22 Jun 2016 20:52:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
