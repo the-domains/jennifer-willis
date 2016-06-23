@@ -4,14 +4,21 @@
         <description><![CDATA[a place to try things out]]></description>
         <link>https://thegrid.ai/jennifer-willis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 15:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 15:56:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jennifer-willis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Small asteroid discovered orbiting Earth]]></title>
-            <description><![CDATA[<article><h1>Small asteroid discovered orbiting Earth</h1><p>Scientists say it looks like the asteroid -- called 2016 HO3 -- has been out there for about 50 years and isn't going away anytime soon. "Our calculations indicate 2016 HO3 has been a stable quasi-satellite of Earth for almost a century, and it will continue to follow this pattern as Earth's companion for centuries to come," said Paul Chodas, manager of NASA's Center for Near-Earth Object Studies.</p><img src="http://i2.cdn.turner.com/cnnnext/dam/assets/160616110417-asteroid-2016-ho3-large-tease.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Small asteroid discovered orbiting Earth</h1><p>Scientists say it looks like the asteroid -- called 2016 HO3 -- has been out there for about 50 years and isn't going away anytime soon. "Our calculations indicate 2016 HO3 has been a stable quasi-satellite of Earth for almost a century, and it will continue to follow this pattern as Earth's companion for centuries to come," said Paul Chodas, manager of NASA's Center for Near-Earth Object Studies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0f5bd572e651e385902f9c79f1b8fb32/noop.jpg?input=http%3A%2F%2Fi2.cdn.turner.com%2Fcnnnext%2Fdam%2Fassets%2F160616110417-asteroid-2016-ho3-large-tease.jpg"></article>]]></description>
             <link>http://www.cnn.com/2016/06/16/us/nasa-asteroid-circles-earth/index.html</link>
             <guid isPermaLink="false">c6400de4-295c-41c3-9446-046553634a01</guid>
             <pubDate>Thu, 23 Jun 2016 15:55:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leading astronomer urges Europe to end human space missions]]></title>
+            <description><![CDATA[<article><h1>Leading astronomer urges Europe to end human space missions</h1><p>Astronomer Martin Rees told CNN that the European Space Agency (ESA) should focus on robotic exploration instead. "The practical case for sending people into space is getting weaker as robots are getting better," Rees said. "Spaceflights have become an adventure sport," he explained.</p><img src="http://i2.cdn.turner.com/cnnnext/dam/assets/141116160920-mars-mission-practice-horizontal-large-gallery.jpg"></article>]]></description>
+            <link>http://www.cnn.com/2016/06/16/europe/human-space-missions/index.html</link>
+            <guid isPermaLink="false">bf9a2a77-46e4-4738-83f9-703ae0420b84</guid>
+            <pubDate>Thu, 23 Jun 2016 15:55:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blue Origin successfully crash tests space-tourism capsule]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.futurity.org/mars-science-fiction-literature-1045372-2/</link>
             <guid isPermaLink="false">a4969f27-9ce6-46c3-97bf-859d0e07b6ad</guid>
             <pubDate>Wed, 22 Jun 2016 20:52:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Warp Drives, No Transporters: Science Fiction Authors Get Real]]></title>
-            <description><![CDATA[<article><h1>No Warp Drives, No Transporters: Science Fiction Authors Get Real</h1><p>Courtesy of Twentieth Century Fox Movie screens are thundering with futuristic stories this year, from the final installment of The Hunger Games to The Martian. Both films started as books - The Martian originally self-published - but it's The Martian that taps into an intriguing trend toward realism.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6998a631db72cbc1bb345d70075a939/noop.jpg?input=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2015%2F12%2F11%2Fthe-martian-tif_rss_0001_fr_n_left-1001r_rgb_wide-a352e6ce2edd4888534356b37ae61b0b3c3a73e2.jpg%3Fs%3D1400"></article>]]></description>
-            <link>http://www.npr.org/2015/12/13/459392474/no-warp-drives-no-transporters-science-fiction-authors-get-real</link>
-            <guid isPermaLink="false">33312bb0-30bc-4d2c-a3b3-6fb1232724c1</guid>
-            <pubDate>Wed, 22 Jun 2016 20:52:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
