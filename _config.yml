@@ -16,4 +16,7 @@ navigation:
   - name: ABOUT
     id: ff4058a1-7bfe-4d1b-b99b-518e8131464a
     type: content
+  - name: '*Stuff to Check Out*'
+    id: 2e625833-ae24-4283-911b-8c82743ea9b6
+    type: content
 title: a place to try things out
